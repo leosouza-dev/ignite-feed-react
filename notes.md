@@ -9,3 +9,4 @@
 - Com css modules tentamos usar sempre classes no css (evitar outras seleções);
 - Por baixo dos panos o css modules gera um Hash para nao repetir classes e nao ter sobreposições;
 
+Teste
